@@ -49,13 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Vennmady's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvennmady-source&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvennmady-source&layout=compact)
-
----
 
 ## 📈 Goals
 🔬 Explore advanced **AI models**  
