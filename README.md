@@ -33,6 +33,21 @@
 
 ---
 
+### 🤖 AI Data Analyst
+
+An AI-powered data analysis tool that allows users to upload datasets and ask questions in natural language. The system automatically converts questions into SQL queries, analyzes the data, and generates tables, charts, and insights to help users explore their data without writing code.
+
+**Tech Stack:**
+
+* **Frontend:** Streamlit
+* **Backend:** FastAPI
+* **LLM:** Groq (Llama-3)
+* **Database:** PostgreSQL
+* **Data Processing:** Pandas, NumPy
+* **Visualization:** Plotly 📊
+  
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
