@@ -1,50 +1,63 @@
 # 👋 Hi, I'm Vennmady Nithyanandam
 
-💻 Passionate about **Machine Learning, Deep Learning, and Cybersecurity**  
-🚀 I love building intelligent systems that solve real-world problems.
+🚀 Machine Learning & Cybersecurity Enthusiast 
+💻 Passionate about building intelligent systems using AI, Data Science, and Security.
 
 ---
 
 ## 🧠 About Me
-🎓 Enthusiastic developer focused on **AI & Security**  
-🤖 Experienced in **Machine Learning (ML) and Deep Learning (DL)**  
-🐍 Strong background in **Python programming**  
-🔍 Interested in **Fraud Detection & Intrusion Detection Systems**
+🎓 Developer focused on Artificial Intelligence and Cybersecurity
+🤖 Experience in Machine Learning (ML) and Deep Learning (DL)
+🐍 Strong programming background in Python
+🔍 Interested in Fraud Detection, Intrusion Detection Systems, and AI Applications
+🌱 Currently exploring Large Language Models (LLMs) and AI-powered systems
 
 ---
 
 ## 🚀 Projects
 
 ### 🔹 Credit Card Fraud Detection
-- Built a **Machine Learning model** to detect fraudulent transactions  
-- Applied **data preprocessing, feature engineering, and classification algorithms**  
-- Focused on improving **accuracy and reducing false positives**
+Built a Machine Learning model to detect fraudulent credit card transactions.
 
-**Tech Stack:** Python, Machine Learning, Data Analysis
+Applied data preprocessing and feature engineering
+Used classification algorithms to identify fraud
+Focused on improving accuracy and reducing false positives
+
+Tech Stack:
+Python • Scikit-Learn • Pandas • NumPy • Machine Learning
 
 ---
 
 ### 🔹 Intrusion Detection System
-- Developed a system to identify **malicious network activities**  
-- Applied **Machine Learning and Deep Learning techniques** for threat detection  
-- Aimed at enhancing **cybersecurity defenses**
+Developed a system to detect malicious network activities using AI techniques.
 
-**Tech Stack:** Python, ML/DL, Network Security
+Identifies suspicious network traffic
+Uses ML and Deep Learning models
+Helps improve cybersecurity defense
+
+Tech Stack:
+Python • Machine Learning • Deep Learning • Network Security
 
 ---
 
 ### 🤖 AI Data Analyst
 
-An AI-powered data analysis tool that allows users to upload datasets and ask questions in natural language. The system automatically converts questions into SQL queries, analyzes the data, and generates tables, charts, and insights to help users explore their data without writing code.
+An AI-powered data analysis tool where users upload datasets and ask questions in natural language.
 
-**Tech Stack:**
+The system automatically:
 
-* **Frontend:** Streamlit
-* **Backend:** FastAPI
-* **LLM:** Groq (Llama-3)
-* **Database:** PostgreSQL
-* **Data Processing:** Pandas, NumPy
-* **Visualization:** Plotly 📊
+Converts questions into SQL queries
+Executes queries on the dataset
+Generates tables, charts, and insights
+
+Tech Stack
+
+Frontend: Streamlit
+Backend: FastAPI
+LLM: Groq (Llama-3)
+Database: PostgreSQL
+Data Processing: Pandas, NumPy
+Visualization: Plotly
   
 ---
 
