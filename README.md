@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vennmady Nithyanandam
 
-🚀 **Machine Learning & Cybersecurity Enthusiast**
+🚀 Machine Learning & Cybersecurity Enthusiast
 💻 Passionate about building intelligent systems using **AI, Data Science, and Security**
 
 ---
