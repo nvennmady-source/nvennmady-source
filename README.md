@@ -90,20 +90,6 @@ Visualization: Plotly
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nvennmady-source\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvennmady-source\&layout=compact\&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nvennmady-source\&theme=tokyonight)
-
----
-
 # 📈 Goals
 
 * 🔬 Explore **advanced AI models**
